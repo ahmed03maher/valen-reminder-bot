@@ -1,1 +1,0 @@
-python -m valen_bot.bot
